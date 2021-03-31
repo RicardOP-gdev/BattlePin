@@ -23,14 +23,3 @@ Personal project inspirated in AA game
 
 Battle pin is a simple accuracy game in which you must place several needles on the circle without touching any other bits inspirated in AA game. Battle Pin includes an extra mode local-multiplayer. This personal project was made it with Unity3D and C# code language to explore my capacity to make 2D game to Android devices. 
 
-<!-- REEL -->
-## DemoReel
-
-DemoReel - [YoutubeLink](https://youtu.be/LbHoayk5W70)
-
-<!-- CONTACT -->
-## Contact
-
-E-Mail: rop.gdev@gmail.com
-
-IG Profile: [@rop.gdev](https://www.instagram.com/rop.gdev/)
